@@ -4,7 +4,8 @@ public class Exe {
 
 	public static void main(String[] args) {
 		System.out.println("Hello OnBench...");
-		int a = 2;
+		int a = 1;
+		int b = 8;
 	}
 
 }
