@@ -10,6 +10,8 @@ public class Exe {
 		int d = 5;
 		int e = 5;
 		int f = 5;
+		int g = 2;
+		int h = 9;
 	}
 
 }
