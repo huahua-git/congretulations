@@ -8,6 +8,8 @@ public class Exe {
 		int b = 8;
 		int c = 2;
 		int d = 5;
+		int e = 5;
+		int f = 5;
 	}
 
 }
