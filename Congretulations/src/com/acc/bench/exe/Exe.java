@@ -6,12 +6,6 @@ public class Exe {
 		System.out.println("Hello OnBench...");
 		int a = 1;
 		int b = 8;
-		int c = 2;
-		int d = 5;
-		int e = 5;
-		int f = 5;
-		int g = 2;
-		int h = 9;
 	}
 
 }
